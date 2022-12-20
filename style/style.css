@@ -1,0 +1,44 @@
+*{
+	box-sizing: border-box;
+ }
+
+body{
+	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: rgb(255, 255, 255);
+	background-color: rgb(49, 49, 49);
+}
+
+.titulo{
+	font-size: 2em;
+	text-align: center;
+}
+
+.botao {
+    float:left;
+    margin-right:5px;
+ }
+
+.color1 {
+	color: rgb(249, 52, 69) !important;
+ }
+
+ .color2{
+	color: rgb(188, 188, 6) !important;
+ }
+
+ .color3{
+	color: rgb(71, 193, 71) !important;
+ }
+
+
+#texto{
+	font-size: xx-large;
+	text-align: center;
+} 
+
+#list{
+	text-align: center;
+	font-size: xx-large;
+	padding: 6px;
+}
